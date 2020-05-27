@@ -1,0 +1,16 @@
+.markdown{
+    width: 80%;
+}
+
+.preview{
+    background-color: white;
+    min-height: 300px;
+}
+
+textarea{
+    min-height: 300px;
+}
+
+.color-header{
+    background: linear-gradient(#2193b0,#6dd5ed)
+}
